@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="BMS Regression Suite">
+    <test name="Functional Tests">
+        <classes>
+            <class name="com.bms.tests.MovieDashboardTest"/>
+            <class name="com.bms.tests.SportsFilterTest"/>
+            <class name="com.bms.tests.AuthenticationTest"/>
+<!--            <class name="com.bms.tests.ContentValidationTest"/>-->
+        </classes>
+    </test>
+</suite>
