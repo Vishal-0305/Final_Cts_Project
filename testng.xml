@@ -3,10 +3,11 @@
 <suite name="BMS Regression Suite">
     <test name="Functional Tests">
         <classes>
+            <class name="com.bms.tests.HomePageTest"/>
             <class name="com.bms.tests.MovieDashboardTest"/>
             <class name="com.bms.tests.SportsFilterTest"/>
             <class name="com.bms.tests.AuthenticationTest"/>
-<!--            <class name="com.bms.tests.ContentValidationTest"/>-->
+
         </classes>
     </test>
 </suite>
