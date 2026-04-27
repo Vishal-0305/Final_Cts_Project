@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 package com.bms.tests;
 
 import com.bms.base.BaseClass;
@@ -62,4 +61,4 @@ public class AuthenticationTest extends BaseClass {
 
     }
 }
->>>>>>> DiffPages
+
