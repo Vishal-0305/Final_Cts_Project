@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 
 public class AuthenticationTest extends BaseClass {
 
-    // Declare the page object at the class level
+
     LoginPage loginPage;
     HomePage homePage;
     @BeforeMethod
